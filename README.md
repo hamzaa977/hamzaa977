@@ -9,6 +9,9 @@
 
 - 😄 Pronouns: he/him
 
+  ThankYou for visiting xD
+  💻👋
+
 <!--
 **hamzaa977/hamzaa977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
