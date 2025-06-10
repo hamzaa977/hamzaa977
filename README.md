@@ -43,7 +43,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
 ### 🧠 Software Engineering & Architecture:
-`OOP`, `SOLID`, `Design Patterns`, `MVC`, `MVP`, `Unit Testing`, `Widget Testing`,  `Debugging`, `Documentation`
+`OOP`,  `MVC`, `MVP`, `Unit Testing`, `Widget Testing`,  `Debugging`, `Documentation`
 
 ### 🤝 Soft Skills:
 ![Leadership](https://img.shields.io/badge/-Leadership-4169E1)
