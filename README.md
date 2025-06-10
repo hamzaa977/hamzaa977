@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Syed Hassnain Abbas</h1>
+<h1 align="center">Hey There! 👋, I'm Hamza Sajjad</h1>
 
 <p align="center">
-  <b>I am a software engineering student at FAST NUCES Batch 23</b>, with a solid foundation in programming and experience in <b>Python, Java, and C/C++</b>, <b>HTML, CSS, SQL</b> and <b>Machine Learning</b>.
+  <b>I am a Artificial intelligence student at FAST NUCES Batch 23</b>, with a solid foundation in programming and experience in <b>Python, Java, and C/C++</b>, <b>HTML, CSS, SQL</b> and <b>Machine Learning</b>.
   <br><br>
   Additionally alongside my coding, I have expertise in Power BI and data visualization and have done projects in them.
   <br>
-  Currently in my 3rd semester and eager to undertake projects and internships that will help me apply and enhance my skills in real-world scenarios.
+  Currently in my 4th semester and eager to undertake projects and internships that will help me apply and enhance my skills in real-world scenarios.
 </p>
 
 ---
@@ -21,15 +21,16 @@
 
 ### 🚀 Languages and Tools:
 
+### 🚀 Languages and Tools:
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prolog-74283c?style=for-the-badge&logo=prolog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
