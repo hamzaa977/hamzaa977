@@ -54,3 +54,15 @@
 ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-6495ED)
 ![Time Management](https://img.shields.io/badge/-Time_Management-4682B4)
 ![Feedback](https://img.shields.io/badge/-Feedback-6A5ACD)
+
+
+
+
+## 📊 Stats
+
+![Visitor Count](https://profile-counter.glitch.me/hamzaa977/count.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzaa977&theme=dark)
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?hamzaa977=yourusername&show_icons=true&theme=dark)
+
