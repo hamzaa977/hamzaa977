@@ -8,70 +8,49 @@
   Currently in my 4th semester and eager to undertake projects and internships that will help me apply and enhance my skills in real-world scenarios.
 </p>
 
----
-## 📫 How to reach me?
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your_email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/hassnain08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassnain08&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain08&layout=compact&theme=radical" width="400"/>
-</p>
+## How to reach me?
 
----
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-74283c?style=flat-square&logo=prolog&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-sajjad-9aa970292/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:hamzasajjad097@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]([https://github.com](https://github.com/hamzaa977))
+[![Web](https://img.shields.io/badge/-Website-black?style=flat&logo=google-chrome)](https://yourwebsite.com)
 
 
-### 🚀 Languages and Tools:
+## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prolog-74283c?style=for-the-badge&logo=prolog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 🚀 Programming Languages:
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
----
 
-### 🔗 Socials
 
-<p align="center">
-  <a href="https://www.instagram.com/hamzaa._.0x" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:hamzasajjad097@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/your_profile/](https://www.linkedin.com/in/hamza-sajjad-9aa970292/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### 🗃️ Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)se)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 
----
+### 🔧 Tools & Services:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
-### 📈 Profile Visitors
+### 🧠 Software Engineering & Architecture:
+`OOP`, `SOLID`, `Design Patterns`, `MVC`, `MVP`, `Unit Testing`, `Widget Testing`,  `Debugging`, `Documentation`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassnain08&style=flat-square&color=green" alt="profile-views" />
-</p>
+### 🤝 Soft Skills:
+![Leadership](https://img.shields.io/badge/-Leadership-4169E1)
+![Team Work](https://img.shields.io/badge/-Team_Work-1E90FF)
+![Self Management](https://img.shields.io/badge/-Self_Management-00BFFF)
+![Collaboration](https://img.shields.io/badge/-Collaboration-4682B4)
+![Communication](https://img.shields.io/badge/-Communication-5F9EA0)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-6495ED)
+![Time Management](https://img.shields.io/badge/-Time_Management-4682B4)
+![Feedback](https://img.shields.io/badge/-Feedback-6A5ACD)
