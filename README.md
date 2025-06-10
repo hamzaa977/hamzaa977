@@ -1,28 +1,57 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Syed Hassnain Abbas</h1>
 
+<p align="center">
+  <b>I am a software engineering student at FAST NUCES Batch 23</b>, with a solid foundation in programming and experience in <b>Python, Java, and C/C++</b>, <b>HTML, CSS, SQL</b> and <b>Machine Learning</b>.
+  <br><br>
+  Additionally alongside my coding, I have expertise in Power BI and data visualization and have done projects in them.
+  <br>
+  Currently in my 3rd semester and eager to undertake projects and internships that will help me apply and enhance my skills in real-world scenarios.
+</p>
 
-- 🌱 I’m currently learning C/C++
-- 👯 I’m looking to collaborate on multiple projects
-- 📫 How to reach me: 
-    1) hamzasajjad097@gmail.com
-    2) https://www.instagram.com/hamzaa._.0x/
+---
 
-- 😄 Pronouns: he/him
+### 📊 GitHub Stats
 
-  ThankYou for visiting xD
-  💻👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassnain08&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain08&layout=compact&theme=radical" width="400"/>
+</p>
 
-<!--
-**hamzaa977/hamzaa977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+### 🔗 Socials
+
+<p align="center">
+  <a href="https://www.instagram.com/hamzaa._.0x" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:hamzasajjad097@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/your_profile/](https://www.linkedin.com/in/hamza-sajjad-9aa970292/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassnain08&style=flat-square&color=green" alt="profile-views" />
+</p>
